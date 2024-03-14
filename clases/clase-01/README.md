@@ -1,5 +1,7 @@
 # clase-01
 
+jueves 14 marzo 2024
+
 en el curso anterior de matemáticas aprendimos a describir coordenadas, superficies, figuras, etc.
 
 preguntas para estudiantes:
