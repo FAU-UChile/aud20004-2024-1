@@ -48,7 +48,7 @@ b) $3.84 \cdot 10^{5} \ [km] \Rightarrow 3.84 \cdot 10^{8} \ [m] \Rightarrow 3.8
 
 c) $138[min]$, $8280 [seg]$
 
-d) $12[m/s] \Rightarrow \frac{0.012[m]}{1[s]} \Rightarrow \frac{0.012[m]}{\frac{1}{3600}[h]} \Rightarrow 43.2[km/h]$
+d) $12[m/s] \Rightarrow \frac{0.012[km]}{1[s]} \Rightarrow \frac{0.012[km]}{\frac{1}{3600}[h]} \Rightarrow 43.2[km/h]$
 
 e) $120[km/h] \Rightarrow \frac{120000[m]}{1[h]} \Rightarrow \frac{120000[m]}{3600[s]} \Rightarrow 33.3[m/s]$
 
