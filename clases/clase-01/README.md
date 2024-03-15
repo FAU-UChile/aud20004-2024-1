@@ -20,7 +20,7 @@ hoy haremos una breve introducción a artistas, diseñadoras y proyectos como in
 - sistemas de coordenadas
 - unidades de medida
 - sistema métrico e imperial
-- wolfram alpha https://www.wolframalpha.com/
+- wolfram alpha <https://www.wolframalpha.com/>
 
 ## aplicaciones de la física en el diseño
 
@@ -33,43 +33,43 @@ este semestre aprenderemos los fundamentos de física necesarios para su prácti
 
 ## presentación docente
 
-- aarón montoya-moraga https://montoyamoraga.io/ https://github.com/montoyamoraga/
-- NYU ITP https://tisch.nyu.edu/itp
-- Processing https://processing.org/
-- p5.js https://p5js.org/
-- School of machines https://www.schoolofma.org/
-- Opera of the future https://www.media.mit.edu/groups/opera-of-the-future/
-- Future sketches https://www.media.mit.edu/groups/future-sketches/
-- Sinestesia https://www.sinestesia.cc/
-- Diseño UDP https://diseno.udp.cl/
+- aarón montoya-moraga <https://montoyamoraga.io/> <https://github.com/montoyamoraga/>
+- NYU ITP <https://tisch.nyu.edu/itp>
+- Processing <https://processing.org/>
+- p5.js <https://p5js.org/>
+- School of machines <https://www.schoolofma.org/>
+- Opera of the future <https://www.media.mit.edu/groups/opera-of-the-future/>
+- Future sketches <https://www.media.mit.edu/groups/future-sketches/>
+- Sinestesia <https://www.sinestesia.cc/>
+- Diseño UDP <https://diseno.udp.cl/>
 
 ## inspiraciones varias
 
-- Ada Lovelace https://es.wikipedia.org/wiki/Ada_Lovelace
-- Andreas Refsgaard https://andreasrefsgaard.dk/
-- Ciat-Lonbarde https://www.ciat-lonbarde.net/
-- Constanza Piña https://es.wikipedia.org/wiki/Constanza_Pi%C3%B1a
-- Crank Sturgeon https://cranksturgeon.com/
-- CW&T https://cwandt.com/
-- Delight Lab https://www.instagram.com/delight_lab_oficial/
-- Electro Faustus https://www.electrofaustus.com/
-- Gaurav Patekar https://www.gauravpatekar.in/
-- Katya Rozanova https://www.katyarozanova.com/
-- Koma Elektronik https://koma-elektronik.com/
-- Leo Fender https://es.wikipedia.org/wiki/Leo_Fender
-- Limor Fried https://es.wikipedia.org/wiki/Limor_Fried
-- Lisa Jamhoury https://lisajamhoury.com/
-- Manifold Works https://manifold.tv/
-- Manoloide https://www.instagram.com/manoloide/
-- Matt Romein https://matt-romein.com/
-- Nicole He https://nicole.pizza/
-- Nicole L'Huillier https://nicolelhuillier.com/
-- Nikola Tesla https://es.wikipedia.org/wiki/Nikola_Tesla
-- Perry R. Cook https://www.cs.princeton.edu/~prc/
-- Rafael Benguria https://es.wikipedia.org/wiki/Rafael_Benguria
-- Rhizomatiks Research https://research.rhizomatiks.com/
-- Robert Moog https://es.wikipedia.org/wiki/Robert_Moog
-- Schorr Guitars http://schorrguitars.de/
+- Ada Lovelace <https://es.wikipedia.org/wiki/Ada_Lovelace>
+- Andreas Refsgaard <https://andreasrefsgaard.dk/>
+- Ciat-Lonbarde <https://www.ciat-lonbarde.net/>
+- Constanza Piña <https://es.wikipedia.org/wiki/Constanza_Pi%C3%B1a>
+- Crank Sturgeon <https://cranksturgeon.com/>
+- CW&T <https://cwandt.com/>
+- Delight Lab <https://www.instagram.com/delight_lab_oficial/>
+- Electro Faustus <https://www.electrofaustus.com/>
+- Gaurav Patekar <https://www.gauravpatekar.in/>
+- Katya Rozanova <https://www.katyarozanova.com/>
+- Koma Elektronik <https://koma-elektronik.com/>
+- Leo Fender <https://es.wikipedia.org/wiki/Leo_Fender>
+- Limor Fried <https://es.wikipedia.org/wiki/Limor_Fried>
+- Lisa Jamhoury <https://lisajamhoury.com/>
+- Manifold Works <https://manifold.tv/>
+- Manoloide <https://www.instagram.com/manoloide/>
+- Matt Romein <https://matt-romein.com/>
+- Nicole He <https://nicole.pizza/>
+- Nicole L'Huillier <https://nicolelhuillier.com/>
+- Nikola Tesla <https://es.wikipedia.org/wiki/Nikola_Tesla>
+- Perry R. Cook <https://www.cs.princeton.edu/~prc/>
+- Rafael Benguria <https://es.wikipedia.org/wiki/Rafael_Benguria>
+- Rhizomatiks Research <https://research.rhizomatiks.com/>
+- Robert Moog <https://es.wikipedia.org/wiki/Robert_Moog>
+- Schorr Guitars <http://schorrguitars.de/>
 
 la clase de hoy es la unidad 0: vectores y fuerzas
 
@@ -161,7 +161,7 @@ $$\theta = atan2(x, y)$$
 
 donde atan2 es una versión especial de la arcotangente
 
-para más info revisar acá: https://es.wikipedia.org/wiki/Coordenadas_polares
+para más info revisar acá: <https://es.wikipedia.org/wiki/Coordenadas_polares>
 
 ## aritmética de vectores
 
@@ -300,5 +300,5 @@ $$\vec{F_{1,2}} = F \cdot \hat{r_{2,1}} = G \frac{m_1 \cdot m_2}{r^2} \cdot \hat
 
 estos videos están disponibles con subtítulos en español
 
-- https://www.khanacademy.org/science/ap-college-physics-1/
+- <https://www.khanacademy.org/science/ap-college-physics-1/>
   - ver sección "Position, acceleration, and velocity"
