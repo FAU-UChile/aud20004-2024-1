@@ -10,8 +10,8 @@
 - créditos: 03
 - semestre: primer semestre 2024
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
-- ayudante: TODO
-- estudiantes inscritos: TODO
+- ayudante: [andrés martin mena](https://github.com/AndresMartinM)
+- estudiantes inscritos: 23
 
 ## repositorio
 
@@ -54,7 +54,7 @@
 | [clase-01](clases/clase-01/)             | 2024-03-14 jueves       | unidad 0: vectores y fuerzas                  |
 | [ayudantia-01](ayudantias/ayudantia-01/) | 2024-03-15 viernes      | unidad 0: vectores y fuerzas                  |
 | [clase-02](clases/clase-02/)             | 2024-03-21 jueves       | unidad 1: cinemática en 1D y 2D               |
-| [ayudantia-02](ayudantias/ayudantia-02/) | 2024-03-22O viernes     | unidad 1: cinemática en 1D y 2D               |
+| [ayudantia-02](ayudantias/ayudantia-02/) | 2024-03-22 viernes      | unidad 1: cinemática en 1D y 2D               |
 | [clase-03](clases/clase-03/)             | 2024-03-28 jueves       | evaluación: control 1, unidades 0, 1          |
 | [ayudantia-03](ayudantias/ayudantia-03/) | 2024-03-29 viernes      | feriado, no hay ayudantía                     |
 | [clase-04](clases/clase-04/)             | 2024-04-04 jueves       | unidad 2: dinámica en 1D y 2D                 |
