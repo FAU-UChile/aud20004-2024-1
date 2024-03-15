@@ -85,9 +85,9 @@ $$F_g = 19.88 \cdot 10^{19} [N]$$
 
 $$F_g \approx 1.98 \cdot 10^{20} [N]$$
 
-$$F_g = G\frac{m_1m_2}{r^2}$$
-
 b)
+
+$$F_g = G\frac{m_1m_2}{r^2}$$
 
 $$F_g =  6.67 \cdot 10^{-11} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{5.98 \cdot 10^{24} \ [kg] \cdot 85 \ [kg]}{(6.37 \cdot 10^{6} \ [m])^2}$$
 
