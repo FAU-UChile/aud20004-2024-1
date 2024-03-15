@@ -60,7 +60,7 @@ a) calcule aproximadamente la fuerza de atracción de gravedad entre la tierra y
 - masa de la luna = $7.35 \cdot 10^{22} \ [kg]$
 - distancia entre la tierra y la luna = $3.84 \cdot 10^{5} \ [km]$
 
-b) calcule aproximadamente la fuerza de atracción de la tierra sobre una persona de $80[kg]$ sabiendo que:
+b) calcule aproximadamente la fuerza de atracción de la tierra sobre una persona de $85[kg]$ sabiendo que:
 
 - masa de la tierra = $5.98 \cdot 10^{24} \ [kg]$
 - radio promedio de la tierra = $6.37 \cdot 10^{6} \ [m]$
