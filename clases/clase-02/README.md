@@ -1,6 +1,6 @@
 # clase-02
 
-jueves 21 de marzo 2024
+jueves 21 marzo 2024
 
 ## repaso clase anterior y programa hoy
 
