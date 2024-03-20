@@ -1,5 +1,7 @@
 # clase-02
 
+jueves 21 de marzo 2024
+
 ## repaso clase anterior y programa hoy
 
 la clase anterior repasamos conceptos básicos de matemática, incluyendo:
@@ -45,7 +47,7 @@ $$\Delta = Delta = final - inicial$$
 - un cuerpo se puede describir con una posición en un punto
 - en ese punto, está toda la masa del cuerpo
 
-## relaciones entre posición, velocidad y aceleración:
+## relaciones entre posición, velocidad y aceleración
 
 aceleración es cambio de velocidad en el tiempo, entonces por definición:
 
@@ -190,102 +192,6 @@ y si nos concentramos en la variable t de tiempo, recordemos que:
 - t está multiplicando a la velocidad inicial, y que t al cuadrado está multiplicando a la aceleración
 - por lo tanto, si analizamos cuando t es muy muy grande (positivo o negativo), el término aceleración por tiempo al cuadrado será el dominante.
 
-## ecuaciones de cinemática sin tiempo en 1D
-
-otra manera de ver la posición en un determinado momento es:
-
-$$
-x(t) = x_0 + \overline{v} \cdot t
-$$
-
-donde tenemos:
-
-- $x(t)$: posición en instante t
-- $x_0$: posición inicial
-- $\overline{v}$: velocidad promedio
-- t: instante t
-
-si queremos eliminar la dependencia en t, podemos despejarlo desde la ecuación original de velocidad v(t):
-
-$$
-v(t) = v_0 + \overline{a} \cdot t
-$$
-
-y despejando $t$:
-
-$$
-t = \frac{v(t) - v_{0}}{\overline{a}}
-$$
-
-y reemplazando este t en la ecuación de posición $x(t)$:
-
-$$
-x(t) = x_0 + \overline{v} \cdot t = x_0 + \overline{v} \cdot \frac{v(t) - v_{0}}{\overline{a}}
-$$
-
-si además reemplazamos la velocidad promedio $\overline{v}$ por su definición:
-
-$$
-\overline{v} = \frac{v(t) + v_{0}}{2}
-$$
-
-la ecuación de posición x(t) resulta:
-
-$$
-x(t) = x_0 + \overline{v} \cdot \frac{v(t) - v_{0}}{\overline{a}} = x_0 + \frac{v(t) + v_{0}}{2} \cdot \frac{v(t) - v_{0}}{\overline{a}}
-$$
-
-y como $(a + b)(a - b) = a^2 - b^2$, entonces:
-
-$$
-x(t) = x_0 + \frac{v(t) + v_{0}}{2} \cdot \frac{v(t) - v_{0}}{\overline{a}} = x_0 + \frac{v^2(t) - {v_{0}}^2}{2 \cdot \overline{a}}
-$$
-
-y podemos despejar la velocidad $v(t)$ en el instante t así:
-
-$$
-v^2(t) = {v_{0}}^2 + (x(t) - x_{0}) \cdot 2 \overline{a}
-$$
-
-donde
-
-- $v_{0}$ es la velocidad inicial, una constante.
-- $x_{0}$ es la posición inicial, una constante.
-- $\overline{a}$ es la aceleración promedio, una constante.
-- $x(t)$ es la posición en el instante t.
-
-con esto, si tenemos los valores de las constantes, para toda posición $x(t)$ podemos saber la velocidad $v(t)$, y viceversa.
-
-ejemplo:
-
-si un cuerpo se mueve en dirección ascendente con $v_0 > 0$, con una aceleración opuesta y constante $-a$, va a disminuir su velocidad, y en algún momento va a pasar por 0, y va seguir disminuyendo.
-
-cuando su velocidad es 0, es en el instante en que se empieza a devolver en la otra dirección, y sería su máximo punto. veamos este valor en la ecuación que acabamos de plantear:
-
-$$
-v^2(t) = {v_{0}}^2 + (x(t) - x_{0}) \cdot 2 \overline{a}
-$$
-
-donde $v(t) = 0$, entonces:
-
-$$
-0 = {v*{0}}^2 + (x(t) - x*{0}) \cdot 2 \overline{a}
-$$
-
-y despejando x(t):
-
-$$
--{v_0}^2 = (x(t) - x_0) \cdot 2 \overline{a}
-$$
-
-$$
--2a \cdot {v_0}^2 = x(t) - x_0
-$$
-
-$$
-x(t) = x_0 + -2a \cdot {v\*{0}}^2
-$$
-
 ## movimiento circular
 
 consideración:
@@ -321,5 +227,5 @@ eso aplica a las canchas para correr, donde a la personas que corren más fuera 
 
 ## referencias
 
-- https://openstax.org/details/books/university-physics-volume-1
-- https://www.cliffsnotes.com/study-guides/physics/classical-mechanics/kinematics-in-one-dimension
+- <https://openstax.org/details/books/university-physics-volume-1>
+- <https://www.cliffsnotes.com/study-guides/physics/classical-mechanics/kinematics-in-one-dimension>
