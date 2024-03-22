@@ -133,11 +133,11 @@ x(6[s]) = 12 [m] + -0.33\left[\frac{m}{s^2}
 \right] \cdot 18[s^2]
 $$
 
-$$x(6[s]) = 12 [m] - 5.94[m]$$
+$$x(6[s]) = 12 [m] - 6[m]$$
 
-$$x(6[s]) = 6.06 [m]$$
+$$x(6[s]) = 6 [m]$$
 
-finalmente sumando ambos resultados la distancia final es de $16.06 \ [m]$.
+finalmente sumando ambos resultados la distancia final es de $16 \ [m]$.
 
 ## ejercicio-03: movimiento uniformemente acelerado
 
