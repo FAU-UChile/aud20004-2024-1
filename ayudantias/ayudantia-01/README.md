@@ -75,7 +75,7 @@ $$F_g =  6.67 \cdot 10^{-11} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{5.98 \cd
 
 $$F_g =  6.67 \cdot 10^{-11} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{5.98 \cdot 7.35 \cdot 10^{24+22} \ [kg^2] }{(3.84 \cdot 10^{8} \ [m])^2}$$
 
-$$F_g =  6.67 \cdot 5.98 \cdot 7.35 \cdot 10^{(-11+24+22-16)} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{[kg^2]}{3.84^2 \cdot 10^{16} \ [m^2]}$$
+$$F_g =  6.67 \cdot 5.98 \cdot 7.35 \cdot 10^{(-11+24+22-16)} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{[kg^2]}{3.84^2 \cdot  [m^2]}$$
 
 $$F_g =  \frac{6.67 \cdot 5.98 \cdot 7.35 \cdot 10^{19}}{3.84^2} \left[\frac{Nm^2}{kg^2}\right] \cdot \frac{[kg^2]}{[m^2]}$$
 
