@@ -46,23 +46,23 @@ Un vehículo de $100[kg]$ de masa se mueve en línea recta a $70[km/h]$. ¿Qué 
 
 calculamos la aceleración:
 
-$$a=\frac{70[km/h] - 20[km/h]}{10[seg]}$$
+$$a=\frac{20[km/h] - 70[km/h]}{10[seg]}$$
 
-$$a=\frac{50[km/h]}{10[seg]}$$
+$$a=\frac{-50[km/h]}{10[seg]}$$
 
-$$a=\frac{13.88[m/s]}{10[s]}$$
+$$a=\frac{-13.88[m/s]}{10[s]}$$
 
-$$a=1.388[m/s^2]$$
+$$a = -1.388[m/s^2]$$
 
 por lo tanto la fuerza requerida es:
 
 $$F=m \cdot a$$
 
-$$F=100[kg] \cdot 1.388[m/s^2]$$
+$$F=100[kg] \cdot (-1.388)[m/s^2]$$
 
-$$F=138.8[kg \cdot m/s^2]$$
+$$F = -138.8[kg \cdot m/s^2]$$
 
-$$F=138.8[N]$$
+$$F = -138.8[N]$$
 
 ## ejercicio-02: movimiento uniformemente acelerado
 
