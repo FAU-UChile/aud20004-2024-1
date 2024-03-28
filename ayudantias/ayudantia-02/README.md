@@ -221,19 +221,19 @@ $$x(1[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 1[s]^2 \ \rightarrow \ x(1[s]) = 2[
 
 $$x(2[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 2[s]^2 \ \rightarrow \ x(2[s]) = 4[m]$$
 
-$$x(3[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 3[s]^2 \ \rightarrow \ x(2[s]) = 9[m]$$
+$$x(3[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 3[s]^2 \ \rightarrow \ x(3[s]) = 9[m]$$
 
-$$x(4[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s]^2 \ \rightarrow \ x(2[s]) = 16[m]$$
+$$x(4[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s]^2 \ \rightarrow \ x(4[s]) = 16[m]$$
 
-$$x(5[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 5[s]^2 \ \rightarrow \ x(2[s]) = 25[m]$$
+$$x(5[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 5[s]^2 \ \rightarrow \ x(5[s]) = 25[m]$$
 
-$$x(6[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 6[s]^2 \ \rightarrow \ x(2[s]) = 36[m]$$
+$$x(6[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 6[s]^2 \ \rightarrow \ x(6[s]) = 36[m]$$
 
-$$x(7[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 7[s]^2 \ \rightarrow \ x(2[s]) = 49[m]$$
+$$x(7[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 7[s]^2 \ \rightarrow \ x(7[s]) = 49[m]$$
 
-$$x(8[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 8[s]^2 \ \rightarrow \ x(2[s]) = 64[m]$$
+$$x(8[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 8[s]^2 \ \rightarrow \ x(8[s]) = 64[m]$$
 
-$$x(9[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 9[s]^2 \ \rightarrow \ x(2[s]) = 81[m]$$
+$$x(9[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 9[s]^2 \ \rightarrow \ x(9[s]) = 81[m]$$
 
 $$x(10[s]) = \frac{1}{2} \cdot 2[m/s^2] \cdot 10[s]^2 \ \rightarrow \ x(10[s]) = 100[m]$$
 
