@@ -284,7 +284,7 @@ esta ley de gravitación universal postula que existe una fuerza gravitacional q
 - ser directamente proporcional a cada masa m1 y m2
 - ser inversamente proporcional a radio al cuadrado, la distancia entre los cuerpos al cuadrado
 - ser una fuerza atractiva, con m1 atrayendo a m2, y a su vez, m2 atrayendo a m1
-- tener una constante de proporcionalidad universal llamada G
+- tener una constante de gravitación universal llamada G
 
 la ecuación entonces resulta:
 
