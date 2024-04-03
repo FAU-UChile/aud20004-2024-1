@@ -96,7 +96,7 @@ la nota final del curso tendrá esta ponderación:
 
 ## bibliografía
 
-- [https://www.khanacademy.org/science/physics/](https://www.khanacademy.org/science/physics/):
-- [https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
-- [https://natureofcode.com/](https://natureofcode.com/)
-- [http://www.fis.puc.cl/~rbenguri/EstaticaDinamica-rb.html](http://www.fis.puc.cl/~rbenguri/EstaticaDinamica-rb.html)
+- <https://www.khanacademy.org/science/physics/>
+- <https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/>
+- <https://natureofcode.com/>
+- <http://www.fis.puc.cl/~rbenguri/EstaticaDinamica-rb.html>
