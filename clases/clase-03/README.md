@@ -125,13 +125,39 @@ ${t_1} = \sqrt{\frac{200 s^2}{0.81}}$
 
 ${t_1} = \sqrt{\frac{200 s^2}{0.81}}$
 
-${t_1} \approx 246.9 s$
+${t_1} \approx 15.7 s$
 
-TODO: para los otros atletas
+para el atleta 2, despejamos el tiempo $t_2$ cuando $x_2(t_2) = 100[m]$
+
+$100 m = \frac{1}{2} \cdot 0.72 \frac{m}{s^2} \cdot {t_2}^{2}$
+
+y despejando $t_2$:
+
+${t_2}^{2} = \frac{200}{0.72} s^2$
+
+${t_2} \approx 16.6 s$
+
+y lo mismo para el atleta 3 resulta en:
+
+${t_3}^{2} = \frac{200}{0.83} s^2$
+
+$t_3  \approx 15.52 s$
 
 b) qué velocidad experimenta el atleta N°3 al momento de llegar a la meta?
 
 solución:
+
+usamos la ecuación de velocidad:
+
+$v(t_3) = v_0 + a_3 \cdot t_3$
+
+y reemplazando los datos:
+
+$v(t_3) \approx 0 \frac{m}{s} + 0.83 \frac{m}{s^2} \cdot 15.52 s$
+
+y simplificando:
+
+$v(t_3) \approx 12.88 \frac{m}{s}$
 
 ## ejercicio-03 (3 puntos)
 
@@ -169,7 +195,7 @@ $$F_{G} = \frac{6.67 \cdot 5.97 \cdot 6.42}{3.15^2}   10^{14} \cdot N$$
 
 y aproximadamente:
 
-$$F_{G} \approx 25.76  10^{14} \cdot N$$
+$$F_{G} \approx 25.76 \cdot 10^{14} N$$
 
 b) si la distancia entre la tierra y marte cambiara disminuyera a la mitad, calcule la nueva fuerza gravitacional entre ambos planetas.
 
@@ -195,7 +221,7 @@ $$F_{G} = \frac{4 \cdot 6.67 \cdot 5.97 \cdot 6.42}{3.15^2}  10^{14} \cdot N$$
 
 y aproximadamente:
 
-$$F_{G} \approx 103.05  10^{14} \cdot N$$
+$$F_{G} \approx 103.05 \cdot 10^{14} N$$
 
 con lo que concluimos que con una distancia disminuida en un factor de 2x, la fuerza gravitacional aumenta en 4x.
 
