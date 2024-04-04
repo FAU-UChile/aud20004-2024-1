@@ -69,19 +69,19 @@ solución:
 
 $x(t) = x_{0} + v_{0} \cdot t + \frac{1}{2} \cdot a \cdot t^{2}$
 
-$x(t=2s) = 0m + 300 \frac{km}{hora} \cdot (2 s) + \frac{1}{2} \cdot \frac{- 25}{6} \frac{m}{s^{2}} \cdot (2s)^{2}$
+$x(t=2s) = 0m + 30 \frac{km}{hora} \cdot (2 s) + \frac{1}{2} \cdot \frac{- 25}{6} \frac{m}{s^{2}} \cdot (2s)^{2}$
 
-$x(t=2s) = 600 \frac{1000m}{3600s} \cdot s + \frac{1}{2} \cdot \frac{- 25}{6} \frac{m}{s^{2}} \cdot 4 s^{2}$
+$x(t=2s) = 60 \frac{1000m}{3600s} \cdot s + \frac{1}{2} \cdot \frac{- 25}{6} \frac{m}{s^{2}} \cdot 4 s^{2}$
 
-$x(t=2s) = 6 \frac{1000m}{36} - 2 \cdot \frac{25}{6}m$
+$x(t=2s) = 60 \frac{10m}{36} - 2 \cdot \frac{25}{6}m$
 
-$x(t=2s) = \frac{1000m}{6} - \frac{50}{6}m$
+$x(t=2s) = \frac{100}{6}m - \frac{50}{6}m$
 
-$x(t=2s) = \frac{950m}{6}$
+$x(t=2s) = \frac{50}{6}m$
 
-$x(t=2s) = \frac{475m}{3}$
+$x(t=2s) = \frac{25m}{3}$
 
-$x(t=2s) \approx 158.3 m$
+$x(t=2s) \approx 8.3 m$
 
 ## ejercicio-02 (3 puntos)
 
