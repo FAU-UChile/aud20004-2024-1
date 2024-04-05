@@ -122,7 +122,7 @@ si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20[N]$ con un �
 
 - Calcule la aceleración lineal ejercida en la pelota al momento de ser golpeada.
 
-### --- solución ---
+### solución-ejercicio-02
 
 - para calcular el vector fuerza utilizamos trigonometría:
 
@@ -160,27 +160,27 @@ $$||\vec{a}|| \approx 400 [m/s^2]$$
 
 ## ejercicio-03
 
-una bola de billar de $150[g]$ experimenta una aceleración vectorial constante $\vec{a} = (1,2)[m/s^2]$.
+una bola de billar de $150[g]$ experimenta una aceleración vectorial constante $\vec{a} = (1,2)\cdot \frac{m}{s^2}$.
 
 - Calcule el vector fuerza que experimenta.
 
-- Asumiendo que la bola de billar parte en la posición $x=(0,0)[m]$ y velocidad $v=(0,0)[m/s]$, calcule el vector posición de la bola de billar en $t=2[s]$.
+- Asumiendo que la bola de billar parte en la posición $x = (0,0) \cdot m$ y velocidad $\vec{v} = (0,0) \frac{m}{s}$, calcule el vector posición de la bola de billar en $t = 2 s$.
 
-### --- solución ---
+### solución-ejercicio-03
 
 - el vector fuerza se calcula utilizando la versión vectorial de la segunda ley de newton:
 
 $$\vec{F} = m \cdot \vec{a}$$
 
-$$\vec{F} = 150[g] \cdot (1,2)[m/s^2]$$
+$$\vec{F} = 150 g \cdot (1,2)\cdot \frac{m}{s^2}$$
 
-$$\vec{F} = 0.150[kg] \cdot (1,2)[m/s^2]$$
+$$\vec{F} = 0.150 kg \cdot (1,2) \cdot \frac{m}{s^2}$$
 
-$$\vec{F} = (0.150[kg],2 \cdot 0.150[kg])[m/s^2]$$
+$$\vec{F} = (0.150 \cdot kg, 2 \cdot 0.150 \cdot kg) \cdot \frac{m}{s^2}$$
 
-$$\vec{F} = (0.150, 0.3)[kg \cdot m/s^2]$$
+$$\vec{F} = (0.150, 0.3) \cdot kg \cdot \frac{m}{s^2}$$
 
-$$\vec{F} = (0.150, 0.3)[N]$$
+$$\vec{F} = (0.150, 0.3) \cdot N$$
 
 - el vector posición en $t=2[s]$ utilizamos las fórmulas del movimiento uniformemente acelerado pero ahora de forma vectorial.
 
@@ -205,5 +205,7 @@ $$\vec{x}(2[s]) = \begin{pmatrix}2[m] \\ 4[m] \end{pmatrix}$$
 en un plano inclinado de $30°$ se abandona un cuerpo que empieza a caer lentamente. el coeficiente de rozamiento entre el plano y el objeto es de $\mu = 0.2$.
 
 calcule la aceleración del cuerpo.
+
+### solución-ejercicio-04
 
 ![Alt text](./img/ayud04-ej04.jpg)
