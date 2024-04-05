@@ -90,7 +90,7 @@ si una pelota de basketball se mueve a una velocidad constante de $\vec{v} = (2,
 
 - Calcule la velocidad lineal de la pelota.
 
-### --- solución ---
+### solución-ejercicio-01
 
 - su velocidad en el eje $\hat{x}$ es de $2 [m/s]$.
 
@@ -112,7 +112,7 @@ $$||\vec{v}|| \approx 3.605 \ [m/s]$$
 
 ## ejercicio-02
 
-si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20[N]$ con un ángulo de incidencia $60°$.
+si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20 N$ con un ángulo de incidencia $60°$.
 
 - Calcule el vector fuerza ejercido a la pelota al momento de ser golpeada.
 
@@ -128,9 +128,9 @@ si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20[N]$ con un �
 
 $$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
 
-$$\vec{F} = (20[N] \cdot cos(60°), 20[N] \cdot sen(60°))$$
+$$\vec{F} = (20 N \cdot cos(60°), 20 N \cdot sen(60°))$$
 
-$$\vec{F} \approx (10, 17.32) [N]$$
+$$\vec{F} \approx (10, 17.32) N$$
 
 - por lo tanto, recibe una fuerza mayor en el eje $\hat{y}$ (hacia arriba).
 
@@ -140,11 +140,11 @@ $$\vec{F} = m \cdot \vec{a}$$
 
 $$\vec{a} = \frac{\vec{F}}{m}$$
 
-$$\vec{a} = \frac{(10, 17.32) [N]}{50[g]}$$
+$$\vec{a} = \frac{(10, 17.32) N}{50[g]}$$
 
-$$\vec{a} = \frac{(10, 17.32) [N]}{0.05[kg]}$$
+$$\vec{a} = \frac{(10, 17.32) N}{0.05[kg]}$$
 
-$$\vec{a} = \left(\frac{10[N]}{0.05[kg]}, \frac{17.32[N]}{0.05[kg]}\right)$$
+$$\vec{a} = \left(\frac{10 N}{0.05 kg}, \frac{17.32 N}{0.05 kg }\right)$$
 
 $$\vec{a} = (200[m/s^2], 346[m/s^2])$$
 
