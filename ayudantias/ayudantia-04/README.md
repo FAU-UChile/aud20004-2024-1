@@ -1,6 +1,6 @@
 # ayudantía-04
 
-viernes 1 septiembre 2023
+viernes 05 abril 2024
 
 ## resumen
 
@@ -14,7 +14,7 @@ el vector de dos dimensiones $\vec{V}$ de coordenadas $(V_x, V_y)$ se grafica de
 
 #### modulo, magnitud o amplitud de un vector $||\vec{V}||$
 
-el módulo o amplitud de un vector nos dice su tamaño. 
+el módulo o amplitud de un vector nos dice su tamaño.
 
 $$||\vec{V}|| = \sqrt{V_x^2 + V_y^2}$$
 
@@ -29,6 +29,7 @@ $$\vec{F} = (F \cdot cos(\alpha), F \cdot sen(\alpha))$$
 ### movimiento uniformemente acelerado en 2D
 
 #### vector aceleración constante en el tiempo
+
 $$\vec{a}(t) = (a_x, a_y) \ [m/s^2]$$
 
 #### vector velocidad en el tiempo
@@ -47,7 +48,7 @@ $$\vec{F} = m \cdot \vec{a}$$
 
 ### diagrama de cuerpo libre
 
-recomiendo revisar los siguientes videos del canal de Youtube *["Susi Profe"](https://www.youtube.com/@SusiProfe):*
+recomiendo revisar los siguientes videos del canal de Youtube _["Susi Profe"](https://www.youtube.com/@SusiProfe):_
 
 - [Fuerzas que actúan sobre un cuerpo](https://www.youtube.com/watch?v=L4KYnv2R2GU)
 
@@ -73,10 +74,9 @@ $$\vec{N} = \vec{W_y}$$
 
 la fuerza de roce $F_r$ es una fuerza que se opone al movimiento de los cuerpos. Es igual a un porcentaje de la fuerza normal. este porcentaje se le conoce como coeficiente de roce y suele escribirse con la letra $\mu$.
 
-$$\vec{F_r} = \mu \cdot \vec{N}$$ 
+$$\vec{F_r} = \mu \cdot \vec{N}$$
 
-la fuerza de roce cambia si el cuerpo está estático o ya está en movimiento. el coeficiente de roce estático $\mu_e$ suele ser mayor que el coeficiente de roce dinámico $\mu_d$. 
-
+la fuerza de roce cambia si el cuerpo está estático o ya está en movimiento. el coeficiente de roce estático $\mu_e$ suele ser mayor que el coeficiente de roce dinámico $\mu_d$.
 
 ## ejercicio-01
 
@@ -207,5 +207,3 @@ en un plano inclinado de $30°$ se abandona un cuerpo que empieza a caer lentame
 calcule la aceleración del cuerpo.
 
 ![Alt text](./img/ayud04-ej04.jpg)
-
-
