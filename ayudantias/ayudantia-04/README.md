@@ -88,7 +88,7 @@ si una pelota de basketball se mueve a una velocidad constante de $\vec{v} = (2,
 
 - ¿en qué eje de coordenadas se desplazará más rápido?
 
-- Calcule la velocidad lineal de la pelota.
+- calcule la velocidad lineal de la pelota.
 
 ### solución-ejercicio-01
 
@@ -114,13 +114,13 @@ $$||\vec{v}|| \approx 3.605 \ [m/s]$$
 
 si una pelota de tenis de $50[g]$ es golpeada con una fuerza de $20 N$ con un ángulo de incidencia $60°$.
 
-- Calcule el vector fuerza ejercido a la pelota al momento de ser golpeada.
+- calcule el vector fuerza ejercido a la pelota al momento de ser golpeada.
 
-- ¿En qué eje de coordenadas recibe mayor fuerza?
+- ¿en qué eje de coordenadas recibe mayor fuerza?
 
-- Calcule el vector aceleración ejercida en la pelota al momento de ser golpeada.
+- calcule el vector aceleración ejercida en la pelota al momento de ser golpeada.
 
-- Calcule la aceleración lineal ejercida en la pelota al momento de ser golpeada.
+- calcule la aceleración lineal ejercida en la pelota al momento de ser golpeada.
 
 ### solución-ejercicio-02
 
@@ -162,9 +162,9 @@ $$||\vec{a}|| \approx 400 [m/s^2]$$
 
 una bola de billar de $150[g]$ experimenta una aceleración vectorial constante $\vec{a} = (1,2)\cdot \frac{m}{s^2}$.
 
-- Calcule el vector fuerza que experimenta.
+- calcule el vector fuerza que experimenta.
 
-- Asumiendo que la bola de billar parte en la posición $x = (0,0) \cdot m$ y velocidad $\vec{v} = (0,0) \frac{m}{s}$, calcule el vector posición de la bola de billar en $t = 2 s$.
+- asumiendo que la bola de billar parte en la posición $x = (0,0) \cdot m$ y velocidad $\vec{v} = (0,0) \frac{m}{s}$, calcule el vector posición de la bola de billar en $t = 2 s$.
 
 ### solución-ejercicio-03
 
@@ -184,21 +184,13 @@ $$\vec{F} = (0.150, 0.3) \cdot N$$
 
 - el vector posición en $t=2[s]$ utilizamos las fórmulas del movimiento uniformemente acelerado pero ahora de forma vectorial.
 
-```math
-\vec{x}(t) = \begin{pmatrix}x_{1_{inicial}} + v_{1_{inicial}} \cdot t + \frac{1}{2} \cdot a_1 \cdot t^2 \\ x_{2_{inicial}} + v_{2_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2 \end{pmatrix}
-```
+$$\vec{x}(t) = \begin{pmatrix}x*{1*{inicial}} + v*{1*{inicial}} \cdot t + \frac{1}{2} \cdot a*1 \cdot t^2 \\ x*{2*{inicial}} + v*{2\_{inicial}} \cdot t + \frac{1}{2} \cdot a_2 \cdot t^2 \end{pmatrix}$$
 
-```math
 $$\vec{x}(2[s]) = \begin{pmatrix}0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 1[m/s^2] \cdot (2[s])^2 \\ 0 + 0 \cdot 2[s] + \frac{1}{2} \cdot 2[m/s^2] \cdot (2[s])^2  \end{pmatrix}$$
-```
 
-```math
 $$\vec{x}(2[s]) = \begin{pmatrix}\frac{1}{2} \cdot 1[m/s^2] \cdot 4[s^2] \\ \frac{1}{2} \cdot 2[m/s^2] \cdot 4[s^2]  \end{pmatrix}$$
-```
 
-```math
 $$\vec{x}(2[s]) = \begin{pmatrix}2[m] \\ 4[m] \end{pmatrix}$$
-```
 
 ## ejercicio-04
 
