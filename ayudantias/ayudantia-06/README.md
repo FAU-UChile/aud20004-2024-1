@@ -1,6 +1,6 @@
 # ayudantía-06
 
-viernes 19 septiembre 2024
+viernes 19 abril 2024
 
 ## resumen
 
