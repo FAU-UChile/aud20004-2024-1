@@ -135,39 +135,6 @@ $$m_{metal} \cdot c_{metal} \cdot (T_{final} - T_{metal inicial}) + m_{agua} \cd
 
 en esta ecuación tenemos datos, como la masa de los cuerpos, su calor específico, y sus temperaturas iniciales, y con eso podemos encontrar T, y es el tipo de ejercicio que veremos en ayudantía.
 
-## leyes de la termodinámica
-
-las leyes de la termodinámica involucran a las relaciones entre calor y energía mecánica, eléctrica, entre otras. son válidas solamente en sistemas en equilibrio, no en sistemas en procesos de cambios muy rápidos o de transiciones complejas.
-
-la primera ley de la termodinámica tiene que ver con la ley de la conservación de la energía y dice así:
-
-$$\Delta Q = \Delta U + \Delta W$$
-
-donde:
-
-- Delta Q: energía de calor de entrada al sistema
-- Delta U: cambio de energía interna del sistema
-- Delta W: trabajo hecho por el sistema
-
-existen muchos corolarios que podemos decir, como por ejemplo:
-
-- si la energía del sistema sube, puede ser porque entra energía al sistema, o porque se hace trabajo sobre el sistema.
-- si no ingresa energía en forma calor al sistema, todo el cambio de energía del sistema está dado por el trabajo realizado por el sistema.
-
-la segunda ley de la termodinámica postula que es imposible construir una máquina que absorbiendo calor de una fuente de calor, haga un trabajo que sea 100% eficiente, ya que siempre pierde calor con el ambiente.
-
-otra manera de ver la segunda ley es que el calor no fluye espontáneamente de un cuerpo a otro cuerpo con mayor temperatura.
-
-de hecho, hay un concepto de entropía S, cuya fórmula es
-
-$$\Delta S = \frac{\Delta Q}{T}$$
-
-el cambio de entropía en un sistema es igual al calor que fluye hacia el sistema, dividido por la temperatura en grados Kelvin.
-
-la entropía del universo aumenta o permanece constante, pero nunca baja. quizás un sistema puede bajar localmente su entropía, pero para eso está en contacto con otros sistemas cuya entropía sube, y el neteo es cero o mayor que cero.
-
-los cuerpos están constantemente compartiendo calor, y con eso sus temperaturas tienden a equilibrarse, y eventualmente el universo estará a la misma temperatura, y no habrá energía disponible para ser usada.
-
 ## temperatura
 
 la temperatura es una propiedad física que tienen los cuerpos, que mide la energía cinética promedio de sus moléculas, por lo tanto, no depende de su masa. esto es una gran diferencia con calor, que sí depende de la masa o cantidad de materia.
@@ -181,7 +148,7 @@ la escala Celsius tiene estos dos puntos importantes:
 - 0 Celsius = congelamiento del agua a presión atmosférica
 - 100 Celsisus = ebullición del agua a presión atmosférica
 
-la escala Fahrenheit tiene estos hitos:
+<!-- la escala Fahrenheit tiene estos hitos:
 
 - 0 Fahrenheit = temperatura de una mezcla de agua, sal y una sal
 - 96 grados Fahrenheit = temperatura corporal normal
@@ -192,9 +159,9 @@ $$C = \frac{5}{9} \cdot (F - 32)$$
 
 $$-40 C = -40 F$$
 
-nosotros en este curso usaremos Kelvin, cuyo grado mide lo mismo que Celsius, solamente se distinguen en su punto de referencia.
+nosotros en este curso usaremos Kelvin, cuyo grado mide lo mismo que Celsius, solamente se distinguen en su punto de referencia. -->
 
-## expansión térmica
+<!-- ## expansión térmica
 
 usaremos la letra alpha para definir el coeficiente promedio de expansión lineal, que se mide en 1 / Celsius, y nos permite expresar la expansión en una dimensión con la ecuación:
 
@@ -232,7 +199,7 @@ $$\Delta A = 0.011 mm^2$$
 
 esto es la diferencia de área, por lo que el área nueva será área original + Delta área, o sea:
 
-$$A_{nueva} = A_{original} + \Delta A = 10 mm^2 + 0.011 mm^2 = 10.011 mm^2$$
+$$A_{nueva} = A_{original} + \Delta A = 10 mm^2 + 0.011 mm^2 = 10.011 mm^2$$ -->
 
 ## bibliografía
 
