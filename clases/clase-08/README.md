@@ -146,7 +146,7 @@ existen distintas escalas para medir temperatura.
 la escala Celsius tiene estos dos puntos importantes:
 
 - 0 Celsius = congelamiento del agua a presión atmosférica
-- 100 Celsisus = ebullición del agua a presión atmosférica
+- 100 Celsius = ebullición del agua a presión atmosférica
 
 <!-- la escala Fahrenheit tiene estos hitos:
 
