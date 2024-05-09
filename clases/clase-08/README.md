@@ -85,7 +85,7 @@ eso se explica porque si tomamos una columna de aire que va desde el nivel del m
 
 con esto, la presión es:
 
-$$presión_{atmosférica} \approx \frac{100 N}{1 cm^2} \approx \frac{100 N}{1 (\frac{m}{100})^2} \approx \frac{100^3 N}{1 m^2} = 100 kPa$$
+$$presión_{atmosférica} \approx \frac{(1 kg) \cdot (10 \frac{m}{s^2})}{1 cm^2}  \approx \frac{10 N}{1 cm^2} \approx \frac{10 N}{1 (\frac{m}{100})^2} \approx \frac{10 \cdot 100^2 N}{1 m^2} \approx 10 \cdot 100^2 \cdot Pa \approx 100 kPa$$
 
 el volumen lo medimos en m^3
 
