@@ -11,7 +11,6 @@ unidad 6: ondas y sonido
 - relaciones entre mundo físico y perceptual
 - velocidad del sonido
 - efecto Doppler
-- primer paso para digitalizar: muestrear
 
 ## definición de onda
 
@@ -103,45 +102,13 @@ entonces otra forma de pensar en el rango humano de escucha, en vez de pensar en
 
 $$f = f_{original} \cdot \frac{v_{sonido} \mp v_{receptor}}{v_{sonido} \mp v_{fuente}}$$
 
-## primer paso para digitalizar: muestrear
+para efectos de este curso, asumiremos que la velocidad del receptor es 0, y solamente nos concentraremos en la velocidad de la fuente.
 
-para grabar un sonido y pasarlo de una señal analógica a una digital, tenemos que muestrear el sonido, pasar de una onda que tiene un valor en todo momento, a tener muestras que sean muy representativas en el tiempo.
+$$f = f_{original} \cdot \frac{v_{sonido}}{v_{sonido} \mp v_{fuente}}$$
 
-para esto elegimos una frecuencia de muestreo, que significa cuán seguido tomamos una muestra. esta frecuencia está definida por el teorema de Nyquist:
+sabemos que cuando una fuente se acerca a nosotros, la frecuencia percibida es mayor, y cuando se aleja, la frecuencia percibida es menor.
 
-$$f_{muestreo} > 2 \cdot f_{máxima}$$
-
-en palabras, para cualquier onda, la frecuencia de muestreo para digitalizar esa onda debe ser estrictamente mayor que el doble de la frecuencia máxima de la onda.
-
-como nuestra percepción de sonido es hasta 20 kHz, si queremos digitalizar sonido, debemos muestrear a más de 40 kHz.
-
-tras muestrear, pasamos de tener una onda análoga, con valores en todo momento de tiempo, a una onda muestreada que solamente tiene un número finito de muestras que la representan.
-
-## segundo paso para digitalizar: cuantizar
-
-una vez que tenemos las muestras, estas muestras tienen un valor real, con infinitos decimales, por lo que todavía no es una onda digital.
-
-debemos truncar ese valor a una cierta resolución, esto recibe el nombre de cuantización.
-
-para cuantizar debemos decidir cuántos bits de resolución usaremos, y eso está sujeto tanto a nuestra percepción como a la capacidad de la tecnología y su costo.
-
-el número de bits (B) determina cuántos pasos tenemos para la resolución de una onda digital.
-
-$$pasos = 2^B$$
-
-por ejemplo, en la tecnología de audio digital para CDs, se decidió en una resolución de 16 bits, con lo que para CDs:
-
-$$pasos_{16 bits} = 2^{16} = 65536$$
-
-como en audio digital, decimos que el audio es una onda en el rango -1 a 1, ese rango está dividido en 65536 pasos.
-
-en tecnología con menos resolución, por ejemplo de 8 bits, tendremos:
-
-$$pasos_{8 bits} = 2^8 = 256$$
-
-entonces en el mismo rango de -1 a 1, tenemos menos pasos, y los saltos entre pasos son mayores y por lo tanto, de menor resolución.
-
-tras muestrear y cuantizar una onda, tenemos una onda digital, que solamente tiene valor en ciertos instantes de tiempo determinados por la frecuencia de muestreo, y la resolución de cada valor es un número finito determinado por la cantidad de bits usados para cuantizar.
+con eso, sabemos que cuando la fuente se acerca, el signo es negativo, y cuando se aleja, el signo es positivo.
 
 ## bibliografía
 
