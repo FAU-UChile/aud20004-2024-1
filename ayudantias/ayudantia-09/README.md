@@ -28,7 +28,7 @@ e) la velocidad de propagación
 
 ### solución-ejercicio-01
 
-![.](./img/Ayud-09-ej1.jpg)
+![.](./img/ayud09-ej1.jpg)
 
 ## ejercicio-02
 
@@ -44,7 +44,7 @@ d) Grafique la onda en el tiempo dibujando al menos dos ciclos. Marque la amplit
 
 ### solución
 
-![.](./img/Ayud-09-ej2.jpg)
+![.](./img/ayud09-ej2.jpg)
 
 ## ejercicio-03
 
@@ -60,7 +60,7 @@ d) Grafique la onda en el tiempo dibujando al menos dos ciclos. Marque el tiempo
 
 ### solución-ejercicio-03
 
-![.](./img/Ayud-09-ej3.jpg)
+![.](./img/ayud09-ej3.jpg)
 
 ## ejercicio-04
 
@@ -74,4 +74,4 @@ b) ¿y cuando se alejan? ¿Lo percibe más grave o más agudo?
 
 ### solución-ejercicio-04
 
-![.](./img/Ayud-09-ej4.jpg)
+![.](./img/ayud09-ej4.jpg)
