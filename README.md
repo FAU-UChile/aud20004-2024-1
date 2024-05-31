@@ -70,14 +70,14 @@
 | [ayudantia-08](ayudantias/ayudantia-08/) | 2024-05-10 viernes      | unidad 5: calor y temperatura                 |
 | [clase-09](clases/clase-09/)             | 2024-05-16 jueves       | unidad 6: ondas y sonido                      |
 | [ayudantia-09](ayudantias/ayudantia-09/) | 2024-05-17 viernes      | unidad 6: ondas y sonido                      |
-| [clase-10](clases/clase-10/)             | 2024-05-23 jueves       | repaso unidades 5,6                           |
-| [ayudantia-10](ayudantias/ayudantia-10/) | 2024-05-24 viernes      | evaluación: control 3, unidades 5, 6          |
-| [clase-11](clases/clase-11/)             | 2024-05-30 jueves       | unidad 7: luz                                 |
-| [ayudantia-11](ayudantias/ayudantia-11/) | 2024-05-31 viernes      | unidad 7: luz                                 |
-| [clase-12](clases/clase-12/)             | 2024-06-06 jueves       | unidad 8: electricidad                        |
-| [ayudantia-12](ayudantias/ayudantia-12/) | 2024-06-07 viernes      | unidad 8: electricidad                        |
-| [clase-13](clases/clase-13/)             | 2024-06-13 jueves       | ejercicios unidades 7 y 8                     |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-06-14 viernes      | repaso unidades 7 y 8                         |
+| [clase-10](clases/clase-10/)             | 2024-05-23 jueves       | clase de repaso suspendida por paro           |
+| [ayudantia-10](ayudantias/ayudantia-10/) | 2024-05-24 viernes      | evaluación suspendida por paro                |
+| [clase-11](clases/clase-11/)             | 2024-05-30 jueves       | repaso control 3, unidades 5 y 6              |
+| [ayudantia-11](ayudantias/ayudantia-11/) | 2024-05-31 viernes      | evaluación: control 3, unidades 5, 6          |
+| [clase-12](clases/clase-12/)             | 2024-06-06 jueves       | unidad 7: luz                                 |
+| [ayudantia-12](ayudantias/ayudantia-12/) | 2024-06-07 viernes      | unidad 7: luz                                 |
+| [clase-13](clases/clase-13/)             | 2024-06-13 jueves       | unidad 8: electricidad                        |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2024-06-14 viernes      | unidad 8: electricidad                        |
 | semana de trabajo autónomo               | 2024-06-17/21           | sin clases, entrega trabajo de investigación  |
 | [clase-14](clases/clase-14/)             | 2024-06-27 jueves       | evaluación: control 4, unidades 7, 8          |
 | [ayudantia-14](ayudantias/ayudantia-14/) | 2024-06-28 viernes      | no hay ayudantía                              |

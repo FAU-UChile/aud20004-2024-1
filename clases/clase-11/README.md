@@ -2,8 +2,11 @@
 
 jueves 30 mayo 2024
 
-unidad 7: luz
+repaso unidades 5 y 6
 
+<!-- unidad 7: luz -->
+
+<!--
 ## repaso control anterior
 
 $$1 \cdot mHz = 1 \cdot \frac{1}{1000} \cdot Hz = 0.001 Hz$$
@@ -96,7 +99,7 @@ modelo aditivo, basado en los colores primarios rojo, verde y azul.
 
 si usamos 8 bits para cada color, tenemos 24 bits en total, o sea, 2^24 posibilidades.
 
-$$2^{24} = 16,777,216$$
+$$2^{24} = 16,777,216$$ -->
 
 <!-- ## HSL y HSV/HSB
 
@@ -111,7 +114,7 @@ HSV o HSB viene de la siglas en inglés de:
 - H: hue
 - S: saturation
 - V: value / B: brighthness -->
-
+<!--
 ## modelo CMYK
 
 modelo substractivo, basado en los colores cyan, magenta, amarillo, y negro.
@@ -127,4 +130,4 @@ se le llama substractivo porque la tinta resta los colores rojo, verde y azul de
 - <https://en.wikipedia.org/wiki/CMYK_color_model>
 - <https://en.wikipedia.org/wiki/LMS_color_space>
 - <https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re>
-- <https://en.wikipedia.org/wiki/Frame_rate>
+- <https://en.wikipedia.org/wiki/Frame_rate> -->
