@@ -80,7 +80,7 @@ en cine se tiende a grabar a 24 cuadros por segundo.
 
 en general se usa en computación tasas de refresco de 50 Hz hacia arriba.
 
-https://www.youtube.com/watch?v=_SzGQkI-IwM
+<https://www.youtube.com/watch?v=_SzGQkI-IwM>
 
 ## modelo RGB
 
@@ -90,20 +90,6 @@ si usamos 8 bits para cada color, tenemos 24 bits en total, o sea, 2^24 posibili
 
 $$2^{24} = 16,777,216$$
 
-<!-- ## HSL y HSV/HSB
-
-HSL viene de las siglas en inglés de:
-
-- H: hue
-- S: saturation
-- L: lightness
-
-HSV o HSB viene de la siglas en inglés de:
-
-- H: hue
-- S: saturation
-- V: value / B: brighthness -->
-
 ## modelo CMYK
 
 modelo substractivo, basado en los colores cyan, magenta, amarillo, y negro.
@@ -112,11 +98,11 @@ se le llama substractivo porque la tinta resta los colores rojo, verde y azul de
 
 ## bibliografía
 
-- https://www.cliffsnotes.com/study-guides/physics/light/characteristics-of-light
-- https://en.wikipedia.org/wiki/Trichromacy
-  https://en.wikipedia.org/wiki/Color_blindness
-- https://en.wikipedia.org/wiki/HSL_and_HSV
-- https://en.wikipedia.org/wiki/CMYK_color_model
-- https://en.wikipedia.org/wiki/LMS_color_space
-- https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re
-- https://en.wikipedia.org/wiki/Frame_rate
+- <https://www.cliffsnotes.com/study-guides/physics/light/characteristics-of-light>
+- <https://en.wikipedia.org/wiki/Trichromacy>
+- <https://en.wikipedia.org/wiki/Color_blindness>
+- <https://en.wikipedia.org/wiki/HSL_and_HSV>
+- <https://en.wikipedia.org/wiki/CMYK_color_model>
+- <https://en.wikipedia.org/wiki/LMS_color_space>
+- <https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re>
+- <https://en.wikipedia.org/wiki/Frame_rate>
