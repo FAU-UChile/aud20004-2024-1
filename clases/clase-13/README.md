@@ -71,7 +71,7 @@ las fuentes de poder que usamos en la vida cotidiana, como el enchufe, una bater
 
 la potencia eléctrica se mide en watts (W), y un Watt es la cantidad de energía por segundo.
 
-$$1 \cdot W = 1 \cdot {J}{s}$$
+$$1 \cdot W = 1 \cdot \frac{J}{s}$$
 
 la relación entre potencia, voltaje y corriente viene dada por la ecuación:
 
