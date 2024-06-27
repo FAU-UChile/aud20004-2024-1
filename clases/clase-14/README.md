@@ -122,3 +122,54 @@ y si analizamos las unidades, podemos comprobar:
 $$1 \cdot W = 1 \cdot V \cdot 1 \cdot A = 1 \cdot \frac{J}{C} \cdot \frac{C}{s} = 1 \cdot {J}{s}$$
 
 evaluación: control 4, unidades 7, 8
+
+## control 04
+
+jueves 27 junio 2024
+
+instrucciones:
+
+- control individual
+- entregar soluciones en hojas con nombre, fecha, número de ejercicio
+- responder máximo 3 de los 4 ejercicios
+- evaluaremos los 2 mejores ejercicios que contesten, el tercero no cuenta
+
+pauta:
+
+- cada control tiene 1 punto base, más 3 puntos por cada ejercicio considerado
+- cada ejercicio tiene parte a) y b), cada una de 1.5 puntos máximo donde:
+  - 1.5 puntos si el proceso está completo, y el resultado es correcto
+  - 1.0 puntos si el proceso está completo, pero el resultado tiene errores menores
+  - 0.5 puntos si el proceso empezó bien, pero luego hubo errores graves y resultado incorrecto
+  - 0.0 puntos si está en blanco o el resultado y el proceso tienen errores gravísimos
+
+### consejos
+
+- usa calculadora y los apuntes del curso
+- no olvides las unidades de medida!
+
+## ejercicio-01: energía eléctrica (3 puntos)
+
+a) los puertos USB-C entregan 5V y un máximo de 3A, cuánta es la potencia máxima que pueden entregar, medida en Watts?
+
+b) los mismos puertos USB-C de a), cuánta es la energía máxima que pueden entregar en 1 hora, medida en Joules?
+
+## ejercicio-02: potencia eléctrica (3 puntos)
+
+a) si una fuente de poder de 230 Volts, tiene una potencia de 500 Watts, cuánta corriente entrega, medida en Ampere?
+
+b) si la potencia de un hervidor eléctrico es de 5 kW, cuánta energía consume en una semana, expresada en Joules?
+
+## ejercicio-03: luz (3 puntos)
+
+dato: velocidad de la luz: $c = 3 \cdot 10^8 \frac{m}{s}$
+
+a) si un color W tiene una longitud de onda de 700 nanómetros, cuál es su frecuencia?
+
+b) si un color Y tiene una frecuencia de 600 THz, cuál es su longitud de onda?
+
+## ejercicio-04: pixeles (3 puntos)
+
+a) si una pantalla tiene 800 pixeles de ancho, y 600 pixeles de alto, y cada pixel es RGB, con 4 bits por cada canal de color, cuántos bits de memoria necesitas para definir una imagen a pantalla completa?
+
+b) si la misma pantalla funciona a 60 cuadros por segundo, cuántos bits necesitas para representar 10 segundos de video?
